@@ -1,6 +1,8 @@
 # mcfDiff
 Comparing Two-Sample (Mean Cumulative Function) MCFs (Two-Sample Pseudo-Score Tests) Use mcfDiff (reda) With (In) R Software
 
+https://www.youtube.com/watch?v=QT1cFj6PhPs
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
